@@ -1,0 +1,4 @@
+I am a new file.
+My name is newGood.txt.
+Nice to meet you! :)
+
